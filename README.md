@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Praveer12/Praveer12/blob/main/DALL%C2%B7E%202024-11-14%2000.31.56%20-%20A%20digital%20illustration%20of%20a%20coding%20workspace%20banner%20in%20GitHub%20profile%20size%2C%20with%20a%20laptop%20on%20a%20desk%20displaying%20a%20code%20editor%20on%20the%20screen.%20The%20banner.webp)
 
 <h1 align="center">Hi 👋, I'm Praveer Srivastava</h1>
 <h3 align="center">A Passionate Data Analyst |Budding Data Scientist | Python Developer from India</h3>
